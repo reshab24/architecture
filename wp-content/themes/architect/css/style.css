@@ -1,0 +1,72 @@
+.slick-dots {
+  position: absolute;
+  bottom:100px;
+  left:50%;
+}
+.imgCard{
+  position: absolute;
+  bottom:50px;
+  left:100px;
+  background-color: #262533;
+  padding:50px 30px ;
+}
+
+/* .one-time{
+  position: relative;
+} */
+
+.first {
+  position: relative;
+}
+
+.second {
+  position: relative !important;
+}
+.aboutOurCompany{
+  background-color: #262533;
+
+}
+.aboutOurCompany .about_our_company{
+  margin-top:30px;
+color: #f9cc41;
+font-weight:700;
+font-size: 12px;
+
+}
+.section_one{
+  padding-top:100px;
+}
+.about_heading{
+  font-size:42px;
+  color:#ffffff;
+  font-family: sans-serif;
+  margin-bottom: 35px;
+
+}
+.about_discription{
+color:#8f8f8f;
+}
+.rating_block{
+  padding:20px 0px;
+}
+.rating_block_one :hover{
+
+}
+.rating_block_one{
+  position: relative;
+  width:220px;
+  height:100px;
+  background: rgba(255, 255, 255, 0.1);
+}
+.rating_block_one i{
+  padding-left: 20px;
+  padding-top:30px;
+  color:#f9cc41;
+  font-size: 3em;
+}
+.rating_block_one .contained{
+position: absolute;
+right: 74px;
+top:5px;
+color:#ffffff;
+}
